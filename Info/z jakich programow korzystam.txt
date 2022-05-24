@@ -1,0 +1,42 @@
+Programy do zarzadzania projektem i komunikacji
+Jira, Slack
+
+Programy do zglaszania bledow
+Testlink, dodatek do Jira Testflow
+
+Programy do tworzenia zapytan mySQL
+MySQL Workbench 8.0
+
+Programy do testow REST AP
+Postman, Jmeter
+
+Programy do testowania SOAP AP
+SoapUI
+
+
+Narzedzia do testow webowych
+Devtools
+
+
+Program do edycji kodu
+Visual Studio Code, notepad++
+
+
+Programy do tworzenia srodowisk
+Oracle virtualbox
+
+
+Programy do nagrywania/screenshoty
+Picpick, Sharex
+
+Node,js i newman w zakresie zdalnego odpalania stworzonych wczesniej testow automatycznych postman
+
+
+Wtyczki
+Perfect Pixel, Colorzilla, gofullpage, JsonViever
+
+programy do automatyzacji
+selenium ide
+
+testty wydajnosciowe
+jmeter

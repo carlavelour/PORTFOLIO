@@ -1,0 +1,30 @@
+Select, where - brak komentarza     
+ distinct po select likwiduje duplikaty
+ as zmiana mazwy jedno slowo razem 
+
+Po select mozna:
+Count ()
+Sum()
+Max, min
+sum 
+avg()
+
+order by (nazwa kolumny) asc desc – kolejnosc po przecinku mozna kolejna nazwe kolumny
+group by nazwa kolumny
+
+
+= rowne
+<> nierowne
+>= <= mniejsze lub rowne 
+between and pomiedzy dwoma liczbami
+is null jest puste
+in (a,b,c) zawiera jeden z wymienionych zmiennych
+not, or and chyba nie trzeba tlumaczyc
+like '%adds%' zawiera
+
+Formmat Join
+select from
+join tabela
+ on tabela.key tabela.key
+
+// komentarze
