@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Publio.pl>
+    <Audiobooki>
+        <Promocja>
+
+        <book format="mp3">
+        <autor>Bruce D. Perry,Oprah Winfrey</autor>
+        <tytuł lang="pl"> Co ci się przydarzyło?</tytuł>
+        <lektor>Magda Mołek, Bartosz Głogowski</lektor>
+        <długość>8h42m</długość>
+        <wydawca>Agora</wydawca>
+        <cena PLN="true">30</cena>
+        </book>
+
+        <book format="mp3">
+        <autor>Kate Murphy</autor>
+        <tytuł lang="pl">W ogóle mnie nie słuchasz!</tytuł>
+        <lektor>Ewa Konstanciak</lektor>
+        <długość>8h56m</długość>
+        <wydawca>Marginesy</wydawca>
+        <cena PLN="true">35,92</cena>
+        </book>
+
+        <book format="mp3">
+        <autor>Annie Grace</autor>
+        <tytuł lang="pl">Wyzwanie: 30 dni bez alkoholu</tytuł>
+        <lektor>Orina Krajewska</lektor>
+        <długość>9h30m</długość>
+        <wydawca>Sensus</wydawca>
+        <cena PLN="true">49</cena>
+        </book>
+
+        <book format="mp3">
+        <autor>Annie Grace</autor>
+        <tytuł lang="pl">Obnażony umysł</tytuł>
+        <lektor>Orina Krajewska</lektor>
+        <długość>9h02m</długość>
+        <wydawca>Sensus</wydawca>
+        <cena PLN="true">39,90</cena>
+        </book>
+
+        <book format="mp3">
+        <autor>Joseph Murphy</autor>
+        <tytuł lang="pl">Potęga podświadomości</tytuł>
+        <lektor>Jarosław Łukomski</lektor>
+        <długość>8h35m</długość>
+        <wydawca>Świat Książki</wydawca>
+        <cena PLN="true">22,87</cena>
+        </book>
+
+        <book format="mp3">
+        <autor>Catherine Gray</autor>
+        <tytuł lang="pl">Jak dobrze być trzeźwym</tytuł>
+        <lektor>Agnieszka Baranowska</lektor>
+        <długość>10h21m</długość>
+        <wydawca>Prószyński i S-ka</wydawca>
+        <cena PLN="true">37,11</cena>
+        </book>
+
+        <book format="mp3">
+        <autor>Joseph Murphy</autor>
+        <tytuł lang="pl">Sztuka afirmacji</tytuł>
+        <lektor>Roch Siemianowski</lektor>
+        <długość>10h14m</długość>
+        <wydawca>Sensus</wydawca>
+        <cena PLN="true">22,43</cena>
+        </book>
+
+        <book format="mp3">
+        <autor>Dale Carnegie</autor>
+        <tytuł lang="pl">Jak tworzyć doskonałe relacje</tytuł>
+        <lektor>Marcin Popczyński</lektor>
+        <długość>5h28m</długość>
+        <wydawca>Sensus</wydawca>
+        <cena PLN="true">27,75</cena>
+        </book>
+
+        <book format="mp3">
+        <autor>Michael Hebb</autor>
+        <tytuł lang="pl">Porozmawiajmy o śmierci przy kolacji</tytuł>
+        <lektor>Marcin Popczyński</lektor>
+        <długość>7h44m</długość>
+        <wydawca>Prószyński i S-ka</wydawca>
+        <cena PLN="true">32,46</cena>
+        </book>
+
+        <book format="mp3">
+        <autor>Andrzej Gryżewski,Katarzyna Miller</autor>
+        <tytuł lang="pl">Być parą i nie zwariować</tytuł>
+        <lektor>Magdalena Schejbal,Janusz Zadura</lektor>
+        <długość>8h29m</długość>
+        <wydawca>Dom Wydawniczy REBIS</wydawca>
+        <cena PLN="true">32,46</cena>
+        </book>
+
+        <book format="mp3">
+        <autor>Brian Tracy,Ron Arden</autor>
+        <tytuł lang="pl">Potęga osobistego uroku</tytuł>
+        <lektor>Robert Michalak</lektor>
+        <długość>3h18m</długość>
+        <wydawca>MT Biznes</wydawca>
+        <cena PLN="true">22,43</cena>
+        </book>
+
+        <book format="mp3">
+        <autor>John Gray</autor>
+        <tytuł lang="pl">Mężczyźni są z Marsa, kobiety z Wenus</tytuł>
+        <lektor>Waldemar Barwiński</lektor>
+        <długość>9h41m</długość>
+        <wydawca>Dom Wydawniczy REBIS</wydawca>
+        <cena PLN="true">32,46</cena>
+        </book>
+
+        </Promocja>
+    </Audiobooki>
+</Publio.pl>
+
